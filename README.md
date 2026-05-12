@@ -240,16 +240,6 @@ lokamanyasampath@gmail.com
 - Hindi
 - Tamil
 
----
-
-# 📊 GitHub Stats
-
-You can add GitHub stats using:
-
-https://github.com/anuraghazra/github-readme-stats
-
----
-
 # ⚡ Fun Fact
 
 I enjoy building AI-powered cybersecurity tools and experimenting with local LLM systems on lightweight hardware.
