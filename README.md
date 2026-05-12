@@ -130,6 +130,13 @@ Currently focused on:
 
 ---
 
+## 🏪 Co-Founder - SmaxFusion.pvt.ltd 
+📅 2021 – Present
+
+- Part of Internloom Project
+- Led initiatives that improved startup visibility and increased engagement by 70% through targeted events and career support
+- Collaborated with a team of 10 to develop tools supporting career development and internships
+
 # 🚀 Featured Projects
 
 ## 🤖 ChatMind AI Assistant
