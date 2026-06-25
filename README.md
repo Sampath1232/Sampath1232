@@ -1,252 +1,393 @@
 # 👋 Hi, I'm Sampath G L
 
-## 🛡️ Cybersecurity Analyst | SOC Analyst | AI & Flask Developer
+## 🛡️ Cybersecurity Engineer | SOC Analyst | AI Security Developer | Full Stack Developer
 
-I am a cybersecurity engineering student passionate about Security Operations, Threat Detection, Ethical Hacking, AI-powered automation, and intelligent monitoring systems. I enjoy building practical cybersecurity and AI solutions using Python, Flask, NLP, Linux security tools, and local AI models.
+I am a Cybersecurity Engineering student passionate about Security Operations, Threat Detection, Ethical Hacking, AI-powered automation, Blockchain Security, and Intelligent Monitoring Systems. I build practical cybersecurity, AI, and blockchain-based solutions using Python, FastAPI, Flask, React, Solidity, NLP, Linux security tools, and local AI models.
 
 Currently focused on:
-- 🛡️ Security Operations Center (SOC) Practices
-- 🤖 AI Agents & Local LLM Integration
-- 🔥 Linux Security Monitoring
-- 🌐 Flask Web Applications
-- 🧠 Natural Language Processing (NLP)
-- ⚡ Automation & Threat Detection Systems
+
+* 🛡️ Security Operations Center (SOC) Practices
+* 🤖 AI Agents & Local LLM Integration
+* 🔥 Linux Security Monitoring
+* 🌐 Full Stack Security Applications
+* 🧠 Natural Language Processing (NLP)
+* ⚡ Security Automation & Threat Detection
+* ⛓️ Blockchain Security & Zero Trust Systems
 
 ---
 
 # 🧠 About Me
 
-🎓 B.Tech Computer Science (Cyber Security) Student  
-🏫 Manipal Institute of Technology, Bengaluru  
-🛡️ SOC & Cybersecurity Enthusiast  
-🤖 AI & Flask Application Developer  
-⚡ Python Automation Developer  
-🔐 Ethical Hacking & Threat Detection Learner  
+🎓 B.Tech Computer Science (Cyber Security) Student
+🏫 Manipal Institute of Technology, Bengaluru
+🛡️ SOC & Threat Detection Enthusiast
+🤖 AI Security & Flask Developer
+⚡ Python Automation Developer
+🔐 Ethical Hacking Learner
+⛓️ Blockchain Security Developer
+🧰 IoT & Embedded Systems Builder
 
 ---
 
 # 🛠️ Skills & Technologies
 
-## 💻 Programming & Scripting
-- Python
-- Bash
-- Linux Shell Scripting
-- JavaScript
-- HTML
-- CSS
-- SQL
-- C++
+## 💻 Programming & Development
 
-## 🌐 Development
-- Flask
-- React
-- REST APIs
-- Git & GitHub
-- Responsive UI Design
-- Task Automation using AI
+* Python
+* Java
+* C
+* JavaScript
+* Bash
+* Linux Shell Scripting
+* SQL
+* JDBC
+* HTML
+* CSS
+* React.js
+* Node.js
+* Express.js
+* Flask
+* FastAPI
+* REST APIs
 
-## 🤖 Artificial Intelligence & Machine Learning
-- NLP
-- Machine Learning
-- Local LLM Integration
-- Ollama
-- AI Agents
-- scikit-learn
-- NLTK
+---
 
 ## 🛡️ Cybersecurity & SOC Operations
-- SOC Monitoring
-- Threat Detection
-- Vulnerability Scanning
-- Log Analysis
-- Incident Response
-- Network Monitoring
-- Firewall Management
-- Linux Security
-- Web Security Testing
+
+* SOC Monitoring
+* Incident Response
+* Threat Hunting
+* Threat Detection
+* Vulnerability Assessment
+* Web Application Security
+* Intrusion Detection Systems (IDS)
+* Endpoint Security
+* Log Analysis
+* Security Automation
+* Network Monitoring
+* OWASP Top 10
+* SIEM
+* Digital Forensics
+* Malware Analysis
+* Anomaly Detection
+
+---
 
 ## 🔧 Security Tools
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploitable
-- AIDE
-- RKHunter
-- Bugbuster
-- Kali Linux
-- Ubuntu
-- Windows Defender
 
-## 🔐 Cryptography & Blockchain
-- Solidity
-- Ethereum
-- IPFS
-- AES
-- RSA
-- ECC
+* Wireshark
+* Nmap
+* Burp Suite
+* Wazuh
+* Splunk
+* AIDE
+* RKHunter
+* Hashcat
+* Hydra
+* John the Ripper
+* Kali Linux
+* Metasploitable
+* Windows Defender
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+* Natural Language Processing (NLP)
+* Machine Learning
+* Local LLM Integration
+* Ollama
+* AI Agents
+* Intent Recognition
+* Data Preprocessing
+* scikit-learn
+* NLTK
+* Anomaly Detection
+
+---
+
+## ⛓️ Blockchain & Cryptography
+
+* Solidity
+* Ethereum
+* Smart Contracts
+* IPFS
+* AES Encryption
+* SHA-256
+* Zero Trust Security
+* QR Verification Systems
+
+---
+
+## 🔌 Embedded Systems & IoT
+
+* Raspberry Pi
+* Arduino
+* Sensor Integration
+* Bluetooth Communication
+* Predictive Maintenance Systems
+* Solar Tracking Systems
+
+---
+
+## 🖥️ Platforms & Environments
+
+* Linux
+* Ubuntu
+* Kali Linux
+* Windows
+* Docker
+* Git
+* GitHub
+* WSL
 
 ---
 
 # 🎓 Education
 
 ## 🏫 Manipal Institute of Technology, Bengaluru
+
 ### B.Tech Computer Science (Cyber Security)
-📅 2023 – Present  
-📊 GPA: 8.2
+
+📅 2023 – Present
+📊 CGPA: 7.0
 
 ---
 
 ## 🏫 IIMT Studies
+
 ### Professional Graduation Program (Mechatronics)
-📅 2022 – 2024  
+
+📅 2022 – 2024
 📊 Score: 70%
 
 ---
 
 ## 🏫 Acharya Polytechnic
+
 ### Diploma in Mechatronics Engineering
-📅 2018 – 2021  
-📊 Score: 72.3%
+
+📅 2018 – 2021
+📊 Score: 77%
 
 ---
 
 # 💼 Experience
 
-## 🏪 Proprietor — Sri Laxmi Electrical Sales & Service Centre
-📅 2021 – Present
+## 🛡️ Cyber Security Intern — Unified Mentor
 
-- Managed retail sales, procurement, inventory tracking, and customer support.
-- Coordinated supplier management and service operations.
-- Handled technical troubleshooting and customer service operations.
+📅 Feb 2026 – Present
+
+* Monitoring and analyzing security events for suspicious activity detection.
+* Performing vulnerability assessments and threat hunting.
+* Working with SIEM workflows, endpoint security, and log analysis.
+
+---
+
+## 💻 Java Development Intern — Certify Technology
+
+📅 Sep 2025 – Oct 2025
+
+* Developed Java-based backend modules using Core Java and OOP.
+* Worked on debugging, testing, and API integrations.
+* Improved backend reliability and application performance.
+
+---
+
+## 🤖 AI Agent Development Intern — Edunet Foundation
+
+📅 Dec 2024 – Jan 2025
+
+* Built an NLP-powered chatbot with automated intent recognition.
+* Applied AI and data analytics for text processing and conversational flow optimization.
+
+---
+
+## 🌐 Full Stack Development Intern — Pantech E Learning (NITK STEP)
+
+📅 Oct 2023 – Nov 2023
+
+* Built full-stack applications using MongoDB, Express.js, React.js, and Node.js.
+* Developed REST APIs and implemented CRUD operations.
+* Worked on authentication modules and deployment workflows.
+
+---
+
+## 🏪 Co-Founder — InternLoom / SmaxFusion Pvt Ltd
+
+📅 Aug 2024 – Present
+
+* Led initiatives that increased startup visibility by 70%.
+* Built internship and career support systems for students.
+* Collaborated with a team of 10 on startup growth and outreach.
 
 ---
 
 ## 💻 Technical Support Engineer — Techlimpid Pvt Ltd (Dell Partner)
+
 📅 Aug 2022 – Nov 2022
 
-- Delivered enterprise desktop and operating system support.
-- Troubleshot hardware, networking, and software-related issues.
-- Worked on structured troubleshooting and technical issue resolution.
+* Configured and deployed 30+ systems for clients.
+* Resolved 50+ technical issues related to hardware, software, and networking.
+* Maintained 95% customer satisfaction through timely troubleshooting.
 
 ---
-
-## 🏪 Co-Founder - SmaxFusion.pvt.ltd 
-📅 2021 – Present
-
-- Part of Internloom Project
-- Led initiatives that improved startup visibility and increased engagement by 70% through targeted events and career support
-- Collaborated with a team of 10 to develop tools supporting career development and internships
 
 # 🚀 Featured Projects
 
+## 🛡️ SentinelShield — AI-Powered WAF & IDS
+
+An AI-enhanced Web Application Firewall (WAF) and Intrusion Detection System (IDS) built using FastAPI, React, and MongoDB.
+
+### Features
+
+* Real-time HTTP request inspection
+* SQL Injection detection
+* XSS detection
+* Brute-force detection
+* Rate limiting
+* IP reputation tracking
+* File validation
+* Anomaly detection
+* SOC dashboard analytics
+
+🔗 Repository:
+https://github.com/Sampath1232/SentinelShield
+
+---
+
+## 🛡️ GuardianPi v2.0 — Linux Host Intrusion Detection & Monitoring Platform
+
+A Raspberry Pi-based lightweight security monitoring system built with Flask.
+
+### Features
+
+* AIDE File Integrity Monitoring
+* RKHunter Rootkit Detection
+* USB Monitoring
+* Port Scanning
+* Log Analysis
+* Network Monitoring
+* Threat Alerts
+* System Health Monitoring
+
+🔗 Repository:
+https://github.com/Sampath1232/GuardianPI
+
+---
+
+## ⚖️ VerdictVault — Blockchain-Based Evidence Management
+
+A secure blockchain-based forensic evidence management platform using Solidity, React, and IPFS.
+
+### Features
+
+* Blockchain hash verification
+* AES Encryption
+* Smart Contracts
+* Role-Based Access Control
+* IPFS Secure Storage
+* QR Verification
+
+🔗 Repository:
+https://github.com/Sampath1232/VerdictVault
+
+---
+
 ## 🤖 ChatMind AI Assistant
-An advanced AI-powered chatbot and multi-agent assistant developed using Python, Flask, NLP, and Local LLM integration.
+
+An NLP-powered AI chatbot built using Flask and local LLM integration.
 
 ### Features
-- NLP Intent Classification
-- Local LLM Integration
-- Flask Web Interface
-- AI Content Generation
-- Offline AI Assistant
-- Multi-Agent Architecture
 
-🔗 GitHub Repository:
-https://github.com/Sampath1232
+* NLP Intent Classification
+* AI Agent Workflows
+* Local LLM Integration
+* Offline AI Chatbot
+* Flask Web Interface
+
+🔗 Repository:
+https://github.com/Sampath1232/ChatMind-AI
 
 ---
 
-## 🛡️ GuardianPi — Linux Host Intrusion Detection & Monitoring Tool
+## 🔧 Smart Maintenance System
 
-A Flask-based cybersecurity monitoring dashboard developed for Linux hosts and Raspberry Pi systems.
-
-### Features
-- AIDE File Integrity Monitoring
-- RKHunter Rootkit Detection
-- Threat Detection & Alerts
-- USB Monitoring
-- Network Monitoring
-- Firewall Monitoring
-- Automated Log Analysis
-
----
-
-## ⚖️ VerdictVault — Blockchain-Based Secure Document System
-
-A blockchain-based enterprise platform implementing Zero-Trust Architecture using Ethereum smart contracts and IPFS.
+An IoT-based predictive maintenance and hazard detection system built using Arduino Mega 2560 and sensor integration.
 
 ### Features
-- Blockchain Hash Verification
-- AES Encryption
-- Smart Contracts
-- Role-Based Access Control
-- IPFS Secure Storage
-- Tamper-Resistant Verification
 
----
+* Gas leakage detection
+* Fire detection
+* Water leakage monitoring
+* Temperature and humidity monitoring
+* Bluetooth alerts
+* Solar tracking automation
 
-## 💰 Personal Finance Tracker
-
-A finance management web application with real-time expense tracking and graphical visualization.
-
-### Features
-- Expense Tracking
-- Pie Chart Visualization
-- Real-Time Updates
-- Local Storage Integration
+🔗 Repository:
+https://github.com/Sampath1232/Smart-Maintenance-System
 
 ---
 
 # 📜 Certifications
 
-✅ Cisco Cyber Threat Management  
-✅ Cisco Endpoint Security  
-✅ Certified SOC Consultant  
-✅ Red Team Threat Intelligence (TryHackMe)  
-✅ Linux on IBM LinuxONE  
-✅ IBM Web Development Fundamentals  
-✅ Edunet Foundation Skills4Future Program  
-✅ AICTE Industrial Training Program  
+✅ Cisco Cyber Threat Management
+✅ Cisco Endpoint Security
+✅ Certified SOC Consultant
+✅ Red Team Threat Intelligence (TryHackMe)
+✅ Linux on IBM LinuxONE
+✅ Kaspersky Cybersecurity Fundamentals
+✅ Introduction to Blockchain Technologies (INSEAD)
+✅ Oracle SQL Databases
+✅ Edunet Foundation Skills4Future Program
+✅ AICTE Industrial Training Program
 
 ---
 
 # 📈 Currently Learning
 
-- Advanced AI Agents
-- Autonomous Multi-Agent Systems
-- SOC Automation
-- Local LLM Optimization
-- Cybersecurity Automation
-- Blockchain Security
+* Advanced SOC Operations
+* SIEM Optimization
+* Threat Intelligence
+* Autonomous AI Agents
+* Local LLM Security Automation
+* Advanced Web Security Testing
+* Blockchain Security Engineering
 
 ---
 
 # 🌐 Connect With Me
 
 ## GitHub
+
 https://github.com/Sampath1232
 
 ## LinkedIn
+
 https://linkedin.com/in/sampath-g-l-8a8b82172
 
 ## Email
-lokamanyasampath@gmail.com
+
+[lokamanyasampath@gmail.com](mailto:lokamanyasampath@gmail.com)
 
 ---
 
 # 🌍 Languages
 
-- Kannada
-- English
-- Hindi
-- Tamil
+* Kannada
+* English
+* Hindi
+* Telugu
+* Tamil
+
+---
 
 # ⚡ Fun Fact
 
-I enjoy building AI-powered cybersecurity tools and experimenting with local LLM systems on lightweight hardware.
+I enjoy building AI-powered cybersecurity tools, blockchain security platforms, and experimenting with lightweight local LLM systems on edge devices.
 
 ---
 
 # 🔥 Motto
 
-"Learn. Build. Secure. Automate."
-
+**Learn. Build. Secure. Automate.**
